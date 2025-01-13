@@ -1,0 +1,51 @@
+# Node.js / JavaScript
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependency directories
+node_modules/
+
+# Build directories
+build/
+dist/
+coverage/
+
+# Environment variables
+.env
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE/Editor files
+.idea/
+.vscode/
+
+# React build files
+/build
+
+# Backend specific
+npm-debug.log*
+.env.local
+.env.*.local
+
+# MacOS specific
+.DS_Store
+
+# React Native
+.expo/
+.expo-shared/
+
+# VSCode settings folder
+.vscode/
+
+# Optional: Firebase-specific ignores
+firebase-debug.log
+
+# Windows
+Thumb
